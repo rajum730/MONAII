@@ -1,0 +1,13 @@
+{
+  "name": "MONA - AI Companion & Agent",
+  "description": "Mobile-first smart, human-like personal AI companion and agent for Android with 3D avatar, RGB ambient lighting, voice and tool calling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
